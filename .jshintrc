@@ -1,0 +1,18 @@
+{
+  "predef": [
+    "jasmine",
+    "describe",
+    "xdescribe",
+    "before",
+    "beforeEach",
+    "after",
+    "afterEach",
+    "it",
+    "xit",
+    "it",
+    "inject",
+    "expect",
+    "spyOn"
+  ],
+  "esnext": true
+}

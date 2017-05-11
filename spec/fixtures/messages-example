@@ -1,0 +1,15 @@
+agencyselection.text.autocomplete=Type your location (city, zip code)
+agencyselection.title=Contact Us
+agencyselection.titleWithVariables=Contact Us {0} {1} {2} {3} {4} {5} {6} {7} {8} {9} {10}
+agencyselection.titleWithOtherVariables={2} Contact {3} Us {0} {1}
+
+###########################################
+# AGENTCENTERS
+###########################################
+
+booking.introDirectPayment.text.nextsteps.signerUser=<ol class="font-bold"> \
+                                                         <li>Entering your contact details and the details of all travelers</li> \
+                                                       </ol> \
+                                                       <p> \
+                                                         Once you''ve gone.\
+                                                       </p>

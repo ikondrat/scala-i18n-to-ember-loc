@@ -1,0 +1,31 @@
+{
+  "name": "scala-i18n-to-ember-loc",
+  "version": "1.0.0",
+  "description": "Converts Scala I18N messages files to JSON format compatible with Ember.loc",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm i && jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ikondrat/scala-i18n-to-ember-loc.git"
+  },
+  "bin": {
+    "scala-i18n-to-ember-loc": "./index.js"
+  },
+  "keywords": [
+    "ember",
+    "ember-cli",
+    "scala",
+    "i18n"
+  ],
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  },
+  "author": "Kondrat Shmoylov <kondrat.shmoylov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ikondrat/scala-i18n-to-ember-loc/issues"
+  },
+  "homepage": "https://github.com/ikondrat/scala-i18n-to-ember-loc#readme"
+}
