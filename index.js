@@ -13,7 +13,6 @@ module.exports = {
 
     return normString;
   },
-
   getContent(sourceFile) {
     return this.getJSONByContent(
       this.normalize(
@@ -21,7 +20,6 @@ module.exports = {
       )
     );
   },
-
   getJSONByContent(content) {
     var res = {},
       lines = content.split(/\n/);
