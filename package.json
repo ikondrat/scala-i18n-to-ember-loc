@@ -1,6 +1,6 @@
 {
   "name": "scala-i18n-to-ember-loc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts Scala I18N messages files to Ember.String.loc format",
   "main": "index.js",
   "scripts": {
