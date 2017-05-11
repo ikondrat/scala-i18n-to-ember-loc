@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-
 var fs = require("fs"),
   sourceFile = process.argv[2],
   targetFile = process.argv[3];
